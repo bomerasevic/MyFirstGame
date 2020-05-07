@@ -1,9 +1,9 @@
 # Cube-My first 3D game 
 ---
 
-[!First img](https://i.imgur.com/XulN1Z6.png)
+![First img](https://i.imgur.com/XulN1Z6.png)
 
-[!Second img](https://i.imgur.com/IzwoiW0.png)
+![Second img](https://i.imgur.com/IzwoiW0.png)
 
 
 ### Table of Contents
